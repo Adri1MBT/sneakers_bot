@@ -1,2 +1,8 @@
 # sneakers_bot
-Automated Scan, Alert and Check-out for popular sneakers merchants
+Automated scan, alert and check-out for popular sneakers merchants
+
+**REQUIREMENTS
+
+knowledge of Selenium, BeautifulSoup4, Requests 
+
+**RESSOURCES
